@@ -1,0 +1,1 @@
+unsigned int modularPower(unsigned int, unsigned int, unsigned int);
